@@ -63,7 +63,7 @@ footer .promo{
     color: gold;
 }
 
-input{
+input[type = "text"]{
     height: 25px;
     width: 15vw;
 }
